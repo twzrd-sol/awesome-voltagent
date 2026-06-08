@@ -166,6 +166,8 @@ Click the [VoltAgent Console](https://console.voltagent.dev) link in your termin
 - [Peaka MCP](https://github.com/VoltAgent/voltagent/tree/main/examples/with-peaka-mcp/) - Peaka data integration
 - [Zapier MCP](https://github.com/VoltAgent/voltagent/tree/main/examples/with-zapier-mcp/) - Zapier automation via MCP
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Tools: score_agent, preflight_check (free), get_trust_receipt (x402 USDC micropayment). Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Voice & Audio Examples
 - [Voice (ElevenLabs)](https://github.com/VoltAgent/voltagent/tree/main/examples/with-voice-elevenlabs/) - ElevenLabs voice synthesis
 - [Voice (OpenAI)](https://github.com/VoltAgent/voltagent/tree/main/examples/with-voice-openai/) - OpenAI voice capabilities
